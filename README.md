@@ -1,4 +1,4 @@
-# FlutterInputs
+# Flutter tutorial
  Flutter'da kullanıcı girişi örnekleri
 ![Ek Açıklama 2020-01-12 234528](https://user-images.githubusercontent.com/53625738/72225542-b159af00-3597-11ea-9a95-fe7de58dfa83.jpg)
 ![Ek Açıklama 2020-01-13 000109](https://user-images.githubusercontent.com/53625738/72225553-d64e2200-3597-11ea-9d69-a6d1a6edb2ff.jpg)
