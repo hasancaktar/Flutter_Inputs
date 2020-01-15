@@ -8,6 +8,8 @@ Stepper(),
 Tarih,
 Saat,
  
+ [![Flutter Inputs Örnekleri(http://i3.ytimg.com/vi/N6s_F1fqWv8/hqdefault.jpg)](https://www.youtube.com/watch?v=UZmbctFWB58&t=6s "Flutter Inputs Examples")
+ 
 ![Ek Açıklama 2020-01-15 232836](https://user-images.githubusercontent.com/53625738/72469438-756d5680-37f0-11ea-976d-cf7fb340ffb4.jpg)
 ![Ek Açıklama 2020-01-15 232856](https://user-images.githubusercontent.com/53625738/72469470-874ef980-37f0-11ea-829e-66dc725e3384.jpg)
 ![Ek Açıklama 2020-01-15 234133](https://user-images.githubusercontent.com/53625738/72469498-933abb80-37f0-11ea-89d1-50b0c9b2006d.jpg)
