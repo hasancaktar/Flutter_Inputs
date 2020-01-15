@@ -1,5 +1,12 @@
 # Flutter tutorial
  Flutter'da kullanıcı girişi örnekleri
+CheckboxListTile(),
+RadioListTile(),
+SwitchListTile(),
+DropdownButton(),
+Stepper(),
+Tarih,
+Saat,
  
 ![Ek Açıklama 2020-01-15 232836](https://user-images.githubusercontent.com/53625738/72469438-756d5680-37f0-11ea-976d-cf7fb340ffb4.jpg)
 ![Ek Açıklama 2020-01-15 232856](https://user-images.githubusercontent.com/53625738/72469470-874ef980-37f0-11ea-829e-66dc725e3384.jpg)
