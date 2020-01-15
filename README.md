@@ -8,7 +8,8 @@
 ![Ek Açıklama 2020-01-15 232820](https://user-images.githubusercontent.com/53625738/72469543-ae0d3000-37f0-11ea-96a0-899b1ea7d7d3.jpg)
 ![Ek Açıklama 2020-01-15 233008](https://user-images.githubusercontent.com/53625738/72469561-b5343e00-37f0-11ea-9ff9-3ec1e6c1e00e.jpg)
 ![Ek Açıklama 2020-01-15 233019](https://user-images.githubusercontent.com/53625738/72469566-b7969800-37f0-11ea-9723-5ba40f27a0a4.jpg)
-![Ek Açıklama 2020-01-15 233714](https://user-images.githubusercontent.com/53625738/72469610-d1d07600-37f0-11ea-9c3b-1ac648129f4c.jpg)
-![Ek Açıklama 2020-01-15 234317](https://user-images.githubusercontent.com/53625738/72469614-d432d000-37f0-11ea-977a-9485c9434a91.jpg)
+![Ek Açıklama 2020-01-15 234317](https://user-images.githubusercontent.com/53625738/72470156-6fc44080-37f1-11ea-99a9-18c1c12700cd.jpg)
+![Ek Açıklama 2020-01-15 234609](https://user-images.githubusercontent.com/53625738/72470167-70f56d80-37f1-11ea-92aa-0add4a7f8c4e.jpg)
+
 
 
