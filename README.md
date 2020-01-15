@@ -1,11 +1,14 @@
 # Flutter tutorial
  Flutter'da kullanıcı girişi örnekleri
  
-![Ek Açıklama 2020-01-12 234528](https://user-images.githubusercontent.com/53625738/72225542-b159af00-3597-11ea-9a95-fe7de58dfa83.jpg)
-![Ek Açıklama 2020-01-13 000109](https://user-images.githubusercontent.com/53625738/72225553-d64e2200-3597-11ea-9d69-a6d1a6edb2ff.jpg)
-![Ek Açıklama 2020-01-12 234646](https://user-images.githubusercontent.com/53625738/72225556-dea65d00-3597-11ea-91c5-0637b8b4b489.jpg)
-![Ek Açıklama 2020-01-12 234729](https://user-images.githubusercontent.com/53625738/72225558-e0702080-3597-11ea-9616-ecd3b8bb2885.jpg)
-![Ek Açıklama 2020-01-12 234812](https://user-images.githubusercontent.com/53625738/72225561-e5cd6b00-3597-11ea-8bed-eede509035c5.jpg)
-![Ek Açıklama 2020-01-12 234833](https://user-images.githubusercontent.com/53625738/72225567-e82fc500-3597-11ea-8fcf-41c95759cef8.jpg)
-![Ek Açıklama 2020-01-12 234911](https://user-images.githubusercontent.com/53625738/72225568-eb2ab580-3597-11ea-9138-937b1bf183eb.jpg)
+![Ek Açıklama 2020-01-15 232836](https://user-images.githubusercontent.com/53625738/72469438-756d5680-37f0-11ea-976d-cf7fb340ffb4.jpg)
+![Ek Açıklama 2020-01-15 232856](https://user-images.githubusercontent.com/53625738/72469470-874ef980-37f0-11ea-829e-66dc725e3384.jpg)
+![Ek Açıklama 2020-01-15 234133](https://user-images.githubusercontent.com/53625738/72469498-933abb80-37f0-11ea-89d1-50b0c9b2006d.jpg)
+![Ek Açıklama 2020-01-15 232937](https://user-images.githubusercontent.com/53625738/72469509-99c93300-37f0-11ea-981e-dc2910506729.jpg)
+![Ek Açıklama 2020-01-15 232820](https://user-images.githubusercontent.com/53625738/72469543-ae0d3000-37f0-11ea-96a0-899b1ea7d7d3.jpg)
+![Ek Açıklama 2020-01-15 233008](https://user-images.githubusercontent.com/53625738/72469561-b5343e00-37f0-11ea-9ff9-3ec1e6c1e00e.jpg)
+![Ek Açıklama 2020-01-15 233019](https://user-images.githubusercontent.com/53625738/72469566-b7969800-37f0-11ea-9723-5ba40f27a0a4.jpg)
+![Ek Açıklama 2020-01-15 233714](https://user-images.githubusercontent.com/53625738/72469610-d1d07600-37f0-11ea-9c3b-1ac648129f4c.jpg)
+![Ek Açıklama 2020-01-15 234317](https://user-images.githubusercontent.com/53625738/72469614-d432d000-37f0-11ea-977a-9485c9434a91.jpg)
+
 
